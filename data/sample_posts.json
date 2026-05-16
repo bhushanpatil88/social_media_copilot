@@ -1,0 +1,92 @@
+[
+  {
+    "platform": "LinkedIn",
+    "topic": "remote work productivity",
+    "author": "alex_pm",
+    "text": "Three years of fully remote work taught me one thing: calendars lie. Mine showed back-to-back 'productive' meetings. My output told a different story. I tried something radical last quarter — I blocked two 90-minute deep-work windows daily and treated them as un-cancellable. Output up 40%. Stress down. The lesson? Defend your focus like it's revenue. Because it is."
+  },
+  {
+    "platform": "LinkedIn",
+    "topic": "AI in software testing",
+    "author": "qa_thoughts",
+    "text": "I used to spend Mondays writing regression test cases. Now an LLM drafts them in under a minute and I spend the morning on edge cases the AI missed. The job didn't shrink. It moved up the value chain. If your team is still hand-writing happy-path tests in 2025, you're spending senior engineer salary on intern work."
+  },
+  {
+    "platform": "LinkedIn",
+    "topic": "career growth",
+    "author": "mira_eng",
+    "text": "The promotion I got last year wasn't because I worked harder. It was because I started narrating my work. Weekly demo. One-line wins in the team channel. A quarterly summary nobody asked for. Visibility isn't bragging — it's the difference between being valued and being forgotten."
+  },
+  {
+    "platform": "Twitter",
+    "topic": "remote work productivity",
+    "author": "devhustle",
+    "text": "Hot take: 'async culture' is just senior engineers protecting their flow time and pretending it's a process."
+  },
+  {
+    "platform": "Twitter",
+    "topic": "AI tools",
+    "author": "bytewise",
+    "text": "Used an AI to write my unit tests this morning. It found a bug I wrote three weeks ago. The student has become the master and I'm filing a Jira ticket on myself."
+  },
+  {
+    "platform": "Twitter",
+    "topic": "productivity",
+    "author": "kp_codes",
+    "text": "Productivity tip: if a task takes <2 minutes, do it now. If it takes >2 hours, schedule it. The middle is where to-do lists go to die."
+  },
+  {
+    "platform": "Instagram",
+    "topic": "morning routine",
+    "author": "mindful_mira",
+    "text": "5:30 AM. No phone. Just water, sunlight, and the quiet kind of focus you can't fake. ✨\n\nThree years ago I scrolled through my mornings. Now I own them. Not because I'm disciplined — because I'm tired of feeling behind by 9 AM.\n\nWhat's the one thing you protect in your morning? Drop it below 👇"
+  },
+  {
+    "platform": "Instagram",
+    "topic": "fitness motivation",
+    "author": "sweat_with_raj",
+    "text": "Day 47. Didn't want to. Did it anyway. 💪\n\nThe gym is the easiest place to be honest with yourself. The bar doesn't care how your day went. The mirror doesn't lie. The reps don't reward excuses.\n\nShow up small. Show up tired. Just show up. Tag the friend who needs this today 👇"
+  },
+  {
+    "platform": "Instagram",
+    "topic": "travel",
+    "author": "wandering_vee",
+    "text": "Lisbon at golden hour hits different. 🌅\n\nThree days here and I've already rewritten my list of life priorities twice. Slow streets, faster espresso, and the kind of strangers who become friends over a glass of vinho verde.\n\nWhich city quietly stole your heart? 💛"
+  },
+  {
+    "platform": "Facebook",
+    "topic": "small business",
+    "author": "neighborhood_bakery",
+    "text": "Big news from our little kitchen 🥐\n\nAfter three years of weekend pop-ups, we're finally opening a permanent shop on Oak Street next month. None of this happens without the regulars who showed up rain or shine, the friends who delivered orders when our car broke down, and every single one of you who shared a photo of our croissants.\n\nThis is your shop too. Save the date — June 14, 10 AM. First 50 customers get a free pastry on us. ❤️"
+  },
+  {
+    "platform": "Facebook",
+    "topic": "community event",
+    "author": "town_runclub",
+    "text": "Reminder: Saturday morning 5K, 7 AM at the lake trailhead 🏃\n\nAll paces welcome — we have a walking group, a chatty middle, and a few faster folks who lap us all and pretend not to. Coffee and pastries from the bakery after. Bring a friend who's been 'meaning to start running' — this is the week.\n\nComment 'IN' if you're coming so we know how much coffee to order ☕"
+  },
+  {
+    "platform": "LinkedIn",
+    "topic": "leadership",
+    "author": "ceo_diaries",
+    "text": "I fired myself from three meetings this week. Nothing broke. The team made the call without me. Decisions got faster. I learned a lesson I keep re-learning: the bottleneck is almost always the most senior person in the room. If you want your org to scale, your first move is to remove yourself from places where your title is the only thing you're contributing."
+  },
+  {
+    "platform": "Twitter",
+    "topic": "startup life",
+    "author": "founder_grind",
+    "text": "Startups in year 1: 'we'll do everything ourselves.' Year 2: 'we should hire.' Year 3: 'we should have hired in year 1.'"
+  },
+  {
+    "platform": "Instagram",
+    "topic": "cooking",
+    "author": "spice_kitchen",
+    "text": "One pan. Twenty minutes. Zero regrets. 🍳\n\nThis garlic butter shrimp is what I make when the fridge is empty and the day was long. Crispy edges, lemony bite, and enough garlic to keep the vampires AND the in-laws away.\n\nFull recipe in the comments 👇 Tag someone whose cooking deserves a round of applause."
+  },
+  {
+    "platform": "LinkedIn",
+    "topic": "data science",
+    "author": "ds_priya",
+    "text": "Spent six months building a 'state of the art' churn model. Accuracy: 94%. Adoption by the sales team: zero. Why? They couldn't explain its predictions to a customer. We replaced it with a logistic regression and a one-page playbook. Adoption: 100%. Best technical decision I've made all year was a worse model."
+  }
+]
