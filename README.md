@@ -97,11 +97,7 @@ pip install -r requirements.txt
 
 ### 2. Configure
 
-Copy `.env.example` to `.env` and fill in your keys:
-
-```bash
-cp .env.example .env
-```
+fill in your keys:
 
 - `GROQ_API_KEY` — required. Free at [console.groq.com/keys](https://console.groq.com/keys).
 - `TAVILY_API_KEY` — optional. Free 1k searches/month at [tavily.com](https://tavily.com).
