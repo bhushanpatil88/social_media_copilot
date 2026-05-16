@@ -62,7 +62,7 @@ in a **Streamlit** frontend.
 social_media_copilot/
 ├── app.py                         # Streamlit frontend
 ├── requirements.txt
-├── .env.example
+├── .env
 ├── README.md
 ├── config/settings.py             # Centralised config
 ├── src/
