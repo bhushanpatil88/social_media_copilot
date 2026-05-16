@@ -163,7 +163,3 @@ All in `config/settings.py` (overridable via env vars):
 - **Scheduling** — bolt on the Buffer or Hootsuite API in a final node.
 - **Analytics** — log every generation into a SQLite table keyed by
   topic/platform/score for offline analysis.
-
-## License
-
-MIT
